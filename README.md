@@ -46,13 +46,13 @@ Password might be needed, which is a89657605
 ```bash
 start project.sql
 ```
-## Step 6: Exit the SQL server
+### Step 6: Exit the SQL server
 
 ```bash
 exit
 ```
 
-## Step 7: Open the data analysis file in Jupter
+### Step 7: Open the data analysis file in Jupter
 
 Finally, open the data analysis Jupyter notebook provided by our team. Follow the instructions within the notebook.
 
